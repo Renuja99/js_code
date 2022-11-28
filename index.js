@@ -12,3 +12,5 @@ function createBranches(){
 createBranches();
 
 console.log('created new branch Little feature')
+
+console.log('second commit little feature')
